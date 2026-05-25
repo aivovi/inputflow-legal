@@ -1,0 +1,67 @@
+# Privacy Policy
+Effective date: May 25, 2026
+Inputflow helps users turn English text into listening practice with audio, synced words, translations, and vocabulary review.
+This Privacy Policy explains what information Inputflow stores, sends, and uses.
+## Information stored on your device
+Inputflow stores app data locally on your device, including:
+- Listening sessions
+- Generated or pasted text used to create sessions
+- Audio generated for sessions
+- Synced transcript words
+- Glossary and vocabulary items
+- Language preferences
+- Appearance preferences
+- Onboarding completion state
+- An anonymous app user identifier
+This information is used to make the app work and to keep your learning experience available between app launches.
+## Information sent to service providers
+When you ask Inputflow to generate text, create audio, or translate words and phrases, the relevant content may be sent to third-party AI or infrastructure providers so the requested feature can work.
+Examples include:
+- Text prompts used to generate learning material
+- Text used to generate audio
+- Selected words or phrases used for translation
+- Technical request metadata needed to operate the service
+Inputflow does not intentionally send your learning content to analytics events.
+## Subscriptions
+Inputflow uses RevenueCat to manage subscriptions and purchase status.
+RevenueCat may process subscription-related information such as:
+- Anonymous app user identifier
+- Purchase status
+- Entitlement status
+- Product and offering identifiers
+- Store transaction information provided by Apple
+Purchases are billed and managed through your Apple ID and the App Store.
+## Analytics
+Inputflow uses PostHog for product analytics.
+Analytics events are designed to use safe metadata only, such as:
+- Which screen or feature was opened
+- Whether a request succeeded, failed, or was blocked
+- Subscription plan state
+- Usage percentage buckets
+- General event source
+Analytics events must not include:
+- Prompt text
+- Pasted text
+- Generated text
+- Selected words
+- Translations
+- Transcript content
+- Audio content
+- Glossary words
+- Free-text support report content
+Analytics failures do not block app functionality.
+## Content safety and usage limits
+Some AI-backed requests may be limited, blocked, or unavailable due to content-safety rules, provider availability, quota limits, or service reliability protections.
+## Support reports
+When you use “Report a problem,” Inputflow prepares a diagnostic template with app and device information when available.
+The report template does not automatically include your learning content, generated content, translations, transcript content, audio content, or glossary words.
+You choose what to send.
+## Children
+Inputflow is not intended for children under 13.
+## Data deletion
+Because Inputflow stores learning data locally on your device, you can remove locally stored app data by deleting the app from your device.
+For subscription or support questions, contact support using the support contact listed on the app’s support page.
+## Changes to this policy
+Inputflow may update this Privacy Policy from time to time. Updates will be posted on this page with a new effective date.
+## Contact
+For privacy questions, contact Inputflow support through the public support page or support email listed for the app.
